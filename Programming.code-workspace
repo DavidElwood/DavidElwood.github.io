@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Programming"
+		},
+		{
+			"path": "../../Arkanoid"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Arkanoid"
+	}
+}
